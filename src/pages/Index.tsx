@@ -15,7 +15,7 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background flex flex-col">
-      <OpsetteHeader theme="dark" />
+      <OpsetteHeader />
 
       <main className="flex-1 w-full max-w-lg mx-auto px-4 pb-8 space-y-6">
         {/* Result — center stage */}
